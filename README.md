@@ -9,7 +9,7 @@ $ brew install ocaml
 $ brew install rlwrap
 ```
 
-### Setting for Japanase
+### Setting for Japanese
 
 Add below in `$HOME/.ocamlinit`
 
